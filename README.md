@@ -59,7 +59,7 @@ $ npm run test:cov
 ```
 # API del Backend de Torneo UD
 
-Este backend proporciona una serie de API para administrar equipos y partidos en el torneo UD, se debe cambiar las credenciales del motor de base de datos en este caso MySQL, posteriormente crear la BD Futbol CREATE DATABASE Futbol;. Las tablas una vez creada la BD y la conexión se crean automáticamente.Ahora si se procede a realizar los Endpoints. Si no quiere crear las tablas de la Base  de datos se dejará un archivo.sql para que llene automáticamente los equipos y los partidos.
+Este backend proporciona una serie de API para administrar equipos y partidos en el torneo UD, se debe cambiar las credenciales del motor de base de datos en este caso MySQL, posteriormente crear la BD Futbol CREATE DATABASE Futbol;. Las tablas una vez creada la BD y la conexión se crean automáticamente, ahora si se procede a realizar los Endpoints. Si no quiere crear las tablas de la Base  de datos se dejará un archivo.sql para que llene automáticamente los equipos y los partidos, ejecutando este archivo en MySQL.
 
 ## Equipos
 
