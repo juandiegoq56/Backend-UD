@@ -64,6 +64,8 @@ Este backend proporciona una serie de API para administrar equipos y partidos en
 ## Equipos
 
 ### Crear Equipo
+![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/ebd702d0-b565-4ea3-a89a-12f148ecdc94)
+
 ![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/f8321ca1-fa46-4a34-ac4e-5e9efe4748fd)
 
 
@@ -84,6 +86,8 @@ Permite crear un nuevo equipo en el torneo.
 
 
 ## Partidos
+![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/832c943d-e8d2-4e62-a2de-355042d66e6f)
+
 ![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/97629852-99e4-440b-8fa8-20ae83bc0e33)
 
 
