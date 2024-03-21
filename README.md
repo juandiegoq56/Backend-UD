@@ -84,6 +84,7 @@ Permite crear un nuevo equipo en el torneo.
 
 
 ## Partidos
+![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/c2914e71-a8f6-4b04-a740-d91d145a7884)
 
 Permite registrar los resultados de un partido entre dos equipos.
 
