@@ -77,6 +77,9 @@ Permite crear un nuevo equipo en el torneo.
       "fundacion": 1975
   }
 
+  ![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/6b4488c4-2144-46b5-8c11-30192bfda2a5)
+
+
 
 ## Partidos
 
