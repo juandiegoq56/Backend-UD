@@ -106,6 +106,10 @@ Permite registrar los resultados de un partido entre dos equipos.
 
 ## Obtener Tabla de Posiciones
 Permite obtener la tabla de posiciones actualizada del torneo.
+![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/e142e68b-1584-4f26-a787-56b9dc7929bb)
+![image](https://github.com/juandiegoq56/Backend-UD/assets/94803522/443b520d-b370-4cdd-a314-f0fa6e35ef74)
+
+
 
 Método: GET
 Endpoint: http://localhost:8080/partidos/getTabla
